@@ -16,7 +16,7 @@ On Ubuntu you can run the following command:
 
 ## Build steps
 
-> sudo apt-get install cmake zlib1g-dev libboost-system-dev libboost-program-options-dev libpthread-stubs0-dev libfuse-dev libudev-dev git  
+> sudo apt-get install cmake zlib1g-dev libboost-system-dev libboost-program-options-dev libpthread-stubs0-dev libfuse-dev libudev-dev git libcurl4-openssl-dev 
 > mkdir console-client   
 > git clone https://github.com/pcloudcom/console-client.git ./console-client/  
 > cd ./console-client/pCloudCC/   
